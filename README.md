@@ -7,7 +7,6 @@ This project serves as a learning journey into understanding how Large Language 
 
 ## 🧠 Visualization
 ![Model Architecture](architecture.png)
-
 *(A conceptual visualization of the Transformer architecture implemented in this project)*
 
 ## 📂 Project Structure

@@ -34,6 +34,8 @@ This project serves as a learning journey into understanding how Large Language 
    pip install torch numpy datasets tiktoken tqdm
    ```
 3. Open the notebook `Large Language Model From Scratch.ipynb`.
+   
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1igh-Xt_EtX6iRc4xH2r3wLeGIdBpvN1V?authuser=3)
 4. Run the cells sequentially to train the model and generate text.
 
 ## 📝 Learning Outcomes
